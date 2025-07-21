@@ -64,4 +64,4 @@ cd projeto-ml-mack-py
 pip install -r requirements.txt
 
 3. Rode o notebook:
-jupyter notebook projeto_melhorado.ipynb
+jupyter notebook projeto.ipynb
