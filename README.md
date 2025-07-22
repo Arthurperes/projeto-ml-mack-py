@@ -31,7 +31,7 @@ projeto-ml-mack-py/
 ├── data/
 │ └── processed/ # Dados tratados (.parquet)
 ├── models/ # Modelos e scalers salvos
-├── projeto_melhorado.ipynb # Notebook principal
+├── projeto.ipynb # Notebook principal
 ├── requirements.txt # Bibliotecas necessárias
 └── README.md # Este documento
 
