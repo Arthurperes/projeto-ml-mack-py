@@ -27,13 +27,16 @@ A TechCorp Brasil enfrenta uma taxa de rotatividade de 35%, com perdas estimadas
 ---
 
 ## 📁 Estrutura do Repositório
+
+```
 projeto-ml-mack-py/
 ├── data/
-│ └── processed/ # Dados tratados (.parquet)
-├── models/ # Modelos e scalers salvos
+│   └── processed/         # Dados tratados (.parquet)
+├── models/                # Modelos e scalers salvos
 ├── projeto_melhorado.ipynb # Notebook principal
-├── requirements.txt # Bibliotecas necessárias
-└── README.md # Este documento
+├── requirements.txt       # Bibliotecas necessárias
+└── README.md              # Este documento
+```
 
 ---
 
